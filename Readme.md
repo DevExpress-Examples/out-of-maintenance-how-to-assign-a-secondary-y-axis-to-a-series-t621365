@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/SecondaryAxesSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SecondaryAxesSample/MainWindow.xaml))**
+* [CurrencyInfo.cs](./CS/SecondaryAxesSample/Model/CurrencyInfo.cs) (VB: [CurrencyInfo.vb](./VB/SecondaryAxesSample/Model/CurrencyInfo.vb))
+<!-- default file list end -->
 # How to: assign a secondary Y-axis to a series
 
 
